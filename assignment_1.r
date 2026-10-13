@@ -367,9 +367,6 @@ results$cover_HC1 <-
 
 # Monte Carlo Summary Table
 
-# ============================================================
-# 6. MONTE CARLO SUMMARY TABLE
-# ============================================================
 cat("\n====================\nPART B.1\n====================\n")
 
 models_names <- unique(results$model)
